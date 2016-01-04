@@ -1,0 +1,146 @@
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\roslyn\csc.exe
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\roslyn\System.Collections.Immutable.dll
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\roslyn\System.Reflection.Metadata.dll
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\roslyn\vbc.exe
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\roslyn\VBCSCompiler.exe
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\roslyn\VBCSCompiler.exe.config
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\Waterbuffalortours.dll.config
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\Waterbuffalortours.dll
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\Waterbuffalortours.pdb
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\Antlr3.Runtime.dll
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\EntityFramework.dll
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\EntityFramework.SqlServer.dll
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\Microsoft.Owin.dll
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\Microsoft.Owin.Security.dll
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\Microsoft.Owin.Security.Google.dll
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\Microsoft.Web.Infrastructure.dll
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\Newtonsoft.Json.dll
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\Owin.dll
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\System.Web.Helpers.dll
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\System.Web.Mvc.dll
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\System.Web.Optimization.dll
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\System.Web.Razor.dll
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\System.Web.WebPages.Deployment.dll
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\System.Web.WebPages.dll
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\System.Web.WebPages.Razor.dll
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\WebGrease.dll
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\System.Web.Helpers.xml
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\System.Web.Mvc.xml
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\System.Web.Optimization.xml
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\System.Web.Razor.xml
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\System.Web.WebPages.xml
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\System.Web.WebPages.Deployment.xml
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\System.Web.WebPages.Razor.xml
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\Antlr3.Runtime.pdb
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\Newtonsoft.Json.xml
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\EntityFramework.xml
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\EntityFramework.SqlServer.xml
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\Microsoft.Owin.xml
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\Microsoft.Owin.Security.xml
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\Microsoft.Owin.Security.Google.xml
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\obj\Debug\Waterbuffalortours.dll
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\obj\Debug\Waterbuffalortours.pdb
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\Waterbuffalortours.Business.dll
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\Waterbuffalortours.Data.dll
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\Waterbuffalortours.Business.pdb
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\bin\Waterbuffalortours.Data.pdb
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours\obj\Debug\Waterbuffalortours.csprojResolveAssemblyReference.cache
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\roslyn\csc.exe
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\roslyn\vbc.exe
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\roslyn\VBCSCompiler.exe
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\Waterbuffalortours.dll.config
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\Waterbuffalortours.dll
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\Waterbuffalortours.pdb
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\Antlr3.Runtime.dll
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\EntityFramework.dll
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\EntityFramework.SqlServer.dll
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\Microsoft.Owin.dll
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\Microsoft.Owin.Security.dll
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\Newtonsoft.Json.dll
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\Owin.dll
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\System.Web.Helpers.dll
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\System.Web.Mvc.dll
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\System.Web.Optimization.dll
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\System.Web.Razor.dll
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\System.Web.WebPages.Deployment.dll
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\System.Web.WebPages.dll
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\System.Web.WebPages.Razor.dll
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\Waterbuffalortours.Business.dll
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\Waterbuffalortours.Data.dll
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\WebGrease.dll
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\Waterbuffalortours.Business.pdb
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\Waterbuffalortours.Data.pdb
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\System.Web.Helpers.xml
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\System.Web.Mvc.xml
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\System.Web.Optimization.xml
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\System.Web.Razor.xml
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\System.Web.WebPages.xml
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\System.Web.WebPages.Deployment.xml
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\System.Web.WebPages.Razor.xml
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\Antlr3.Runtime.pdb
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\Newtonsoft.Json.xml
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\EntityFramework.xml
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\EntityFramework.SqlServer.xml
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\Microsoft.Owin.xml
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\Microsoft.Owin.Security.xml
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\obj\Debug\Waterbuffalortours.csprojResolveAssemblyReference.cache
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\obj\Debug\Waterbuffalortours.dll
+C:\Users\TuanPham\Working\WaterBuffalowTour\Git\Waterbuffalortours\obj\Debug\Waterbuffalortours.pdb

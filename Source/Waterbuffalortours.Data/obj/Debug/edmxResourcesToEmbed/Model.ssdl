@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ToursModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Contact">
+    <Key>
+      <PropertyRef Name="ContactID" />
+    </Key>
+    <Property Name="ContactID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="YourName" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="Email" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Subject" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="Content" Type="nvarchar" MaxLength="2000" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Slide">
+    <Key>
+      <PropertyRef Name="SlideID" />
+    </Key>
+    <Property Name="SlideID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Title" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="SlideType" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Notes" Type="nvarchar" MaxLength="500" />
+    <Property Name="RefID" Type="int" />
+    <Property Name="IsActive" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="SlideDetail">
+    <Key>
+      <PropertyRef Name="DetailID" />
+    </Key>
+    <Property Name="DetailID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SlideID" Type="int" Nullable="false" />
+    <Property Name="Title" Type="nvarchar" MaxLength="100" />
+    <Property Name="Notes" Type="nvarchar" MaxLength="500" />
+    <Property Name="ImageSmall" Type="varchar" MaxLength="250" />
+    <Property Name="ImageLarge" Type="varchar" MaxLength="250" />
+    <Property Name="SortOrder" Type="int" />
+  </EntityType>
+  <EntityType Name="TextData">
+    <Key>
+      <PropertyRef Name="TextID" />
+    </Key>
+    <Property Name="TextID" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="Title" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="Notes" Type="ntext" Nullable="false" />
+    <Property Name="IsActive" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Tours">
+    <Key>
+      <PropertyRef Name="TourID" />
+    </Key>
+    <Property Name="TourID" Type="int" Nullable="false" />
+    <Property Name="TourName" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="ShortDescription" Type="ntext" Nullable="false" />
+    <Property Name="TourContent" Type="ntext" Nullable="false" />
+    <Property Name="HighlightTitle" Type="nvarchar" MaxLength="250" />
+    <Property Name="Highlight" Type="nvarchar" MaxLength="500" />
+    <Property Name="AlbumID" Type="int" Nullable="false" />
+    <Property Name="ImageSmall" Type="varchar" MaxLength="250" />
+    <Property Name="ImageLarge" Type="varchar" MaxLength="250" />
+    <Property Name="IsHost" Type="bit" Nullable="false" />
+    <Property Name="IsActive" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ToursRelated">
+    <Key>
+      <PropertyRef Name="RelatedID" />
+    </Key>
+    <Property Name="RelatedID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TourID" Type="int" Nullable="false" />
+    <Property Name="TourRelatedID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="UserID" />
+    </Key>
+    <Property Name="UserID" Type="int" Nullable="false" />
+    <Property Name="UserName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Password" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="FullName" Type="nvarchar" MaxLength="250" Nullable="false" />
+    <Property Name="Image" Type="varchar" MaxLength="250" />
+    <Property Name="IsActive" Type="bit" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'Tours.dbo.vw_SlideDetail' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="vw_SlideDetail">
+    <Key>
+      <PropertyRef Name="DetailID" />
+      <PropertyRef Name="SlideID" />
+      <PropertyRef Name="SlideType" />
+    </Key>
+    <Property Name="DetailID" Type="int" Nullable="false" />
+    <Property Name="SlideID" Type="int" Nullable="false" />
+    <Property Name="SlideType" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Title" Type="nvarchar" MaxLength="100" />
+    <Property Name="Notes" Type="nvarchar" MaxLength="500" />
+    <Property Name="ImageSmall" Type="varchar" MaxLength="250" />
+    <Property Name="ImageLarge" Type="varchar" MaxLength="250" />
+    <Property Name="SortOrder" Type="int" />
+  </EntityType>
+  <EntityContainer Name="ToursModelStoreContainer">
+    <EntitySet Name="Contact" EntityType="Self.Contact" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Slide" EntityType="Self.Slide" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SlideDetail" EntityType="Self.SlideDetail" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TextData" EntityType="Self.TextData" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Tours" EntityType="Self.Tours" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ToursRelated" EntityType="Self.ToursRelated" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="User" EntityType="Self.User" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="vw_SlideDetail" EntityType="Self.vw_SlideDetail" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [vw_SlideDetail].[DetailID] AS [DetailID], 
+    [vw_SlideDetail].[SlideID] AS [SlideID], 
+    [vw_SlideDetail].[SlideType] AS [SlideType], 
+    [vw_SlideDetail].[Title] AS [Title], 
+    [vw_SlideDetail].[Notes] AS [Notes], 
+    [vw_SlideDetail].[ImageSmall] AS [ImageSmall], 
+    [vw_SlideDetail].[ImageLarge] AS [ImageLarge], 
+    [vw_SlideDetail].[SortOrder] AS [SortOrder]
+    FROM [dbo].[vw_SlideDetail] AS [vw_SlideDetail]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,12 @@
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours.Business\obj\Debug\Waterbuffalortours.Business.csprojResolveAssemblyReference.cache
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours.Business\bin\Debug\Waterbuffalortours.Business.dll
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours.Business\bin\Debug\Waterbuffalortours.Business.pdb
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours.Business\bin\Debug\Waterbuffalortours.Data.dll
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours.Business\bin\Debug\EntityFramework.dll
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours.Business\bin\Debug\Waterbuffalortours.Data.pdb
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours.Business\bin\Debug\EntityFramework.xml
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours.Business\obj\Debug\Waterbuffalortours.Business.dll
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours.Business\obj\Debug\Waterbuffalortours.Business.pdb
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours.Business\bin\Debug\Waterbuffalortours.Business.dll.config
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours.Business\bin\Debug\EntityFramework.SqlServer.xml

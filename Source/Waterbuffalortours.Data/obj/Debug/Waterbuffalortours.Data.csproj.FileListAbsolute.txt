@@ -1,0 +1,10 @@
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours.Data\bin\Debug\Waterbuffalortours.Data.dll.config
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours.Data\bin\Debug\Waterbuffalortours.Data.dll
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours.Data\bin\Debug\Waterbuffalortours.Data.pdb
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours.Data\bin\Debug\EntityFramework.dll
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours.Data\bin\Debug\EntityFramework.xml
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours.Data\obj\Debug\Waterbuffalortours.Data.dll
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours.Data\obj\Debug\Waterbuffalortours.Data.pdb
+C:\Truc\Personal Data\Anh Khoi\Waterbuffalortours\Waterbuffalortours.Data\obj\Debug\Waterbuffalortours.Data.csprojResolveAssemblyReference.cache
